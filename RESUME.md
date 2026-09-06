@@ -1,6 +1,6 @@
-# Robert Fenech Adami - CV
+# Robert Fenech Adami
 
-**AI Engineer / Data Engineer**  
+**Data Scientist / Data Engineer**  
 Malta · robertfa02@gmail.com · +356 99623332  
 [LinkedIn](https://linkedin.com/in/robert-fenech-adami-308758222)
 
@@ -105,11 +105,3 @@ Event-driven RAG agent for sports analysis using streaming-style ingestion, Lang
 - Big Data Analytics with Hadoop and Apache Spark
 - IBM Machine Learning Certificates
 - Data Scientist: Machine Learning Career Path
-
----
-
-## Current Focus
-
-- Applied GenAI systems with LangChain, LangGraph, RAG, and LangSmith
-- Agentic workflows with structured outputs, tool calling, approval gates, and evaluation
-- AI Engineer roles combining data engineering, production ML, and business-facing GenAI systems
