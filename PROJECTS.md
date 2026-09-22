@@ -6,7 +6,7 @@ I build practical AI systems that connect language models to data, tools, workfl
 
 ## CV
 
-For more detail on my professional experience, technical background, and selected AI projects, see my [CV](./RESUME.md).
+For more detail on my professional experience, technical background, and selected AI projects, see my [CV](./README.md).
 
 ---
 
