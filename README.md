@@ -2,11 +2,9 @@
 
 **AI Engineer / Data Engineer | Production ML & GenAI**
 
-Malta · Open to relocation across Australia  
+Malta 
 robertfa02@gmail.com · +356 99623332  
 [LinkedIn](https://linkedin.com/in/robert-fenech-adami-308758222) · [GitHub](https://github.com/robbyfa)
-
-**Planning relocation to Australia · Intending to apply for a Working Holiday visa (subclass 417) · Open to employer sponsorship**
 
 ---
 
@@ -113,5 +111,3 @@ Built an event-driven sports intelligence agent combining streaming-style event 
 ## Additional Information
 
 **English:** IELTS - 8.0+ in Listening, Reading, Writing, and Speaking  
-**Relocation:** Open to opportunities across Australia, including Sydney, Melbourne, Brisbane, Perth, Adelaide, Canberra, and other locations  
-**Visa:** Planning to apply for a subclass 417 Working Holiday visa and open to longer-term employer sponsorship
