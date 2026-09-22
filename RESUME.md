@@ -59,6 +59,16 @@ Alongside my production ML background, I build applied GenAI systems using LangG
 
 ---
 
+## Education
+
+### MSc Information Studies - Data Science
+**University of Amsterdam · 2023 - 2024**
+
+### BSc Information Technology - Software Development
+**University of Malta · October 2020 - July 2023**
+
+---
+
 ## Selected AI Projects
 
 ### [Customer Support Resolution Copilot](https://github.com/robbyfa/customer-support-agent)
@@ -85,16 +95,6 @@ Built an event-driven sports intelligence agent combining streaming-style event 
 - Added structured outputs, evidence-grounded answers, source citations, and confidence scoring.
 - Built an analyst-brief workflow with factual claim extraction and verification against source event data.
 - Created a **20-question evaluation suite** covering retrieval relevance, groundedness, citation quality, route selection, and event freshness.
-
----
-
-## Education
-
-### MSc Information Studies - Data Science
-**University of Amsterdam · 2023 - 2024**
-
-### BSc Information Technology - Software Development
-**University of Malta · October 2020 - July 2023**
 
 ---
 
